@@ -34,9 +34,9 @@ To get started with this project, follow the instructions below:
 Follow these steps to run the Market Basket Analysis:
 
 Prepare the data: Ensure your dataset 'groceries.csv' is placed in the project directory.
-
-      ```sh
-      python analyze_market_basket.py
+                                     
+    ```sh
+     python analyze_market_basket.py
 
 View the results: The results will be displayed in the terminal and saved as images in the project directory.
 
@@ -54,14 +54,14 @@ Calculate support, confidence, and lift for the rules.
 Create a word cloud to visualize the frequency of items.
 Plot the association rules using matplotlib for better understanding.
 
-##Results
+## Results
 The project generates the following outputs:
 
 Frequent itemsets and their support values.
 Association rules with confidence and lift values.
 A word cloud visualizing the frequency of items in transactions.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please create an issue or submit a pull request.
 
 Fork the repository.
