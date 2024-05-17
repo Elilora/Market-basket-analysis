@@ -30,7 +30,8 @@ To get started with this project, follow the instructions below:
    ```sh
    pip install -r requirements.txt
 
-##Usage
+## Usage
+
 Follow these steps to run the Market Basket Analysis:
 
 Prepare the data: Ensure your dataset 'groceries.csv' is placed in the project directory.
@@ -40,7 +41,7 @@ Prepare the data: Ensure your dataset 'groceries.csv' is placed in the project d
 
 View the results: The results will be displayed in the terminal and saved as images in the project directory.
 
-##Methodology
+## Methodology
 1. **Data Preprocessing:**
 Read the transactional data from a CSV file.
 Clean and preprocess the data by handling missing values and standardizing item names.
