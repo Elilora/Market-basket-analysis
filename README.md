@@ -1,4 +1,5 @@
 # Market Basket Analysis
+![Market Basket Analysis](./Images/market_analysis_basket.png "Market Basket Analysis")
 
 Market Basket Analysis is a data mining technique used to discover associations between items in large datasets. This project demonstrates how to perform Market Basket Analysis on a grocery store dataset using Python.
 The goal of this project is to analyze transactional data from a grocery store to identify patterns and associations between items frequently bought together. This type of analysis can be used for various applications such as optimizing store layouts, creating targeted marketing campaigns, and improving inventory management.
