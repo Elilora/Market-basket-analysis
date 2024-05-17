@@ -35,9 +35,8 @@ Follow these steps to run the Market Basket Analysis:
 
 Prepare the data: Ensure your dataset 'groceries.csv' is placed in the project directory.
 
-Run the analysis script:
- ```sh
- python analyze_market_basket.py
+      ```sh
+      python analyze_market_basket.py
 
 View the results: The results will be displayed in the terminal and saved as images in the project directory.
 
